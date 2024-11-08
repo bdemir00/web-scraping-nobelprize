@@ -1,4 +1,3 @@
-# Web Scraping
 I thought it would be fun to extract data from Wikipedia about Nobel laureates and analyse their zodiac signs.
 
 *Used technology: python, pandas, beautiful soup*
